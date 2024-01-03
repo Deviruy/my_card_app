@@ -9,3 +9,11 @@
 # Ignorar arquivos do CMake
 CMakeLists.txt linguist-generated
 *.cmake linguist-generated
+
+# Ignorar arquivos relacionados à linguagem HTML
+*.html linguist-generated
+*.htm linguist-generated
+
+# Ignorar arquivos relacionados à linguagem Kotlin
+*.kt linguist-generated
+*.kts linguist-generated
